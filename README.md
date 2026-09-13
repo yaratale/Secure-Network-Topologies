@@ -1,4 +1,4 @@
-# 🌐 Secure Network Topologies & Infrastructure Design
+# Secure Network Topologies & Infrastructure Design
 
 ## Project Overview
 This repository serves as a practical portfolio showcasing **Network Architecture Design, Logical Subnetting, and Hardware Infrastructure Configuration**. 
